@@ -1,4 +1,4 @@
-# Programa de exemplo de menu com React.js.
+# Programa de exemplo de menu de opções com React.js.
 
 - O projeto foi desenvolvido no VSCode deve ser chamado "menu_reactjs".
 - Programa web utiliza a porta 3000.
@@ -10,3 +10,7 @@
 
 - Arquivos em src:
    - App.js - Interface do programa.
+
+- Menu de opções:
+
+![Menu de opções](menu.png)
